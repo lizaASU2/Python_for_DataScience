@@ -1,1 +1,1 @@
-# Python_for_DataScience
+# Задания по курсу Python_for_DataScience Гребеньщкова Елизаветы Витальевны
